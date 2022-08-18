@@ -93,12 +93,14 @@ Durante estos apuntes y, programando en JavaScript de forma general, vamos a usa
 **console.log** lo que hará es mostrar por el terminal la información que le pasemos como parámetro, es decir, entre los paréntesis. Esta información puede ser un texto, una variable, un objeto... prácticamente cualquier cosa.
 
     //Ejemplo de un comentario de una línea
+    
     console.log("Hola mundo")
     console.log(3)
     
     /* Ejemplo
     de un comentario
     de varias líneas */
+
     console.log(miVariable)
     console.log(typeof miObjeto)
 
