@@ -8,7 +8,7 @@ Si le echas un ojo verás que es fácil de seguir, o al menos eso he intentado.
 
 Si te gusta este repositorio puedes hacer varias cosas:
 
- - Darle una Estrella 
+ - Darle una Estrella :star: al repositorio
  - Seguirme por [Twitter](https://twitter.com/bitnomada)
  - Modificarlos a tu gusto
 
