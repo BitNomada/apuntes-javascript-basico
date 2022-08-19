@@ -1,5 +1,5 @@
 
-## 2. Variables
+## 2.1. Variables
 
 En programación es muy recurrente el uso de variables para almacenar, manipular y mostrar información. Es por ello que vamos a empezar por ellas, vamos a ver **qué es una variable, cómo se declara y cómo se pueden utilizar**.
 ### Qué es una variable
