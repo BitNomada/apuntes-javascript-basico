@@ -16,11 +16,15 @@ De forma resumida podemos decir que con el u**so de variables vamos a almacenar 
 
    No hace falta que entiendas ya por qué se declaran de esta forma las variables en JavaScript, porque lo vamos a ver un poco más abajo. Simplemente tienes que entender que los identificadores de la variable (sus nombres) van a hacer referencia al valor que le hemos asignado. Así pues la variable "resultado" tendrá como valor el resultado de la operación de 3+2, es decir, 5.
    
+
+
    **A retener de este apartado:**
    
 
  - *Una variable es un identificador (nombre) que hace referencia a un valor guardado en un espacio de la memoria.*
  - *Para usar, modicar o mostrar ese valor tan solo tendremos que usar el identificador.*
+
+ 
  
 ### Declaración e inicialización de una variable
 Para utilizar las variables en cualquier lenguaje de programación tenemos que tener claro dos conceptos: la **declaración** y la **iniciación** de una variable.
