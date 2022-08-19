@@ -60,7 +60,7 @@ Así pues, **para declarar una variable** tendremos que escribir una de estas pa
 
 Aunque las tres formas sirven para declarar una variable, hay **diferencias entre ellas**. 
 
-Básicamente **var y let** tienen la misma funcionalidad: declarar una variable que su valor puede ir cambiando durante la ejecución del programa. Aunque var y let tienen la misma función, desde ES6 se recomienda utilizar let para declarar una variable, así que utilizar var hoy en día es una mala práctica. Os dejo en los enlaces de interés un artículo sobre esto.
+Básicamente **var y let** tienen la misma funcionalidad: declarar una variable que su valor puede ir cambiando durante la ejecución del programa. Aunque var y let tienen la misma función, desde ES6 se recomienda utilizar let para declarar una variable, así que utilizar var hoy en día es una mala práctica por el tema de el ámbito de ambas. Os dejo en los enlaces de interés un artículo sobre esto.
 
 Luego tenemos **const**, const sirve para declarar una variable que tiene un varlo que no puede cambiar durante la ejecución del programa. Por eso se llama const, porque es CONSTANTE. Además, cuando declaramos una constante, tenemos que declarar e inicializarla en la misma línea.
 
@@ -70,3 +70,7 @@ Luego tenemos **const**, const sirve para declarar una variable que tiene un var
  - *Var, let y const son palabras reservadas que solo podemos utilizar para declarar variables o constantes*
  - *Var y let tienen la misma función: declarar una variable. Pero usaremos let en lugar de var.*
  - *Const sirve para declarar e inicializar una constante, debemos hacerlo al mismo tiempo.*
+
+### Enlaces de interés
+ - [Var, let y const, cuál es la diferencia](https://www.freecodecamp.org/espanol/news/var-let-y-const-cual-es-la-diferencia/)
+
