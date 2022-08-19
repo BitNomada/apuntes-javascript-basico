@@ -21,5 +21,6 @@ Sin más... ¡os dejo con la estructura de los apuntes!
 
  1. [Introducción previa](https://github.com/BitNomada/apuntes-javascript-basico/tree/main/1-Introduccion-previa)
  2. [Tipos de datos y variables](https://github.com/BitNomada/apuntes-javascript-basico/tree/main/2-Tipo-datos-variables)
+	 2.1. [Variables](https://github.com/BitNomada/apuntes-javascript-basico/blob/main/2-Tipo-datos-variables/2-1-variables.md) 
 
 ¡Pronto la tendrás disponible!
